@@ -1,0 +1,1 @@
+This is a repository with materials for python programing workshop for Netherlands eScience engineers. The focus of the workshop is mostly using iPython notebook (project [jupyter](http://jupyter.org/)), pandas and exploratory data analysis.
